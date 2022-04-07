@@ -82,7 +82,12 @@ function App() {
         ) : (
           ""
         )}
+      <footer className="footer">
+      <p className="footer_p">Created by Lucas Gomez | © 2021 All rights deserved</p>
+      </footer>
       </main>
+      
+      
     </div>
   );
 }
